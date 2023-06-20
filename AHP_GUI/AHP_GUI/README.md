@@ -1,9 +1,7 @@
 # 
-foman-FA is open source MATLAB user interface, it is a decision making tool based on FA technique to generate the weight calculations and priority choices. 
+ 
 
-foman-FA was developed in MATLAB language, compatible with MATLAB R2020b and subsequent versions. 
-
-To start foman-FA tool: 
+To start reajust tool: 
 i. Set the current directory in the bottom of the code to 'filename' of the foman-FA folder; 
 ii. Incorporate input file in Load .xlsx separately (.xlsx file contains numeric data only);
 iii. Set number of criteria;
